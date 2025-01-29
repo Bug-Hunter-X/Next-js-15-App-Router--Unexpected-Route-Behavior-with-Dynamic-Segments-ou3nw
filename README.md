@@ -1,0 +1,3 @@
+# Next.js 15 App Router Unexpected Route Behavior
+
+This repository demonstrates an unexpected behavior in the Next.js 15 App Router when navigating between pages with dynamic routes.  The issue revolves around the unpredictable rendering of components based on the route parameters.  This seems to be a subtle edge case related to how the router handles client-side transitions and component re-hydration.  The provided example highlights the issue, while the solution offers a potential workaround.
